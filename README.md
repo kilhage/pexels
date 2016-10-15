@@ -1,4 +1,9 @@
 # Pexels API Client
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/glooby/pexels/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/glooby/pexels/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/glooby/pexels/badges/build.png?b=master)](https://scrutinizer-ci.com/g/glooby/pexels/build-status/master)
+[![Latest Stable Version](https://poser.pugx.org/glooby/pexels/version)](https://packagist.org/packages/glooby/pexels)
+[![Total Downloads](https://poser.pugx.org/glooby/pexels/downloads)](https://packagist.org/packages/glooby/pexels)
+[![License](https://poser.pugx.org/glooby/pexels/license)](https://packagist.org/packages/glooby/pexels)
 
 ## Install
 
