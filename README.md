@@ -2,7 +2,7 @@
 
 ## Install
 
-Install the Pexels PHP Client with Composer.
+Install the Pexels API Client with Composer.
 
     "require": {
         "glooby/pexels": "~0.1"
