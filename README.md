@@ -1,4 +1,4 @@
-# Pexels
+# Pexels API Client
 
 ## Install
 
