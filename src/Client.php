@@ -31,7 +31,7 @@ class Client
     private function getClient()
     {
         if (null === $this->client) {
-            $this->client = new Client([
+            $this->client = new \GuzzleHttp\Client([
                 'defaults' => [
                     'headers' => [
                         'Authorization' => $this->token
