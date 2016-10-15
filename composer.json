@@ -2,7 +2,7 @@
     "name": "glooby/pexels",
     "license": "MIT",
     "type": "library",
-    "description": "pexels",
+    "description": "PHP API client for www.pexels.com",
     "keywords": ["pexels", "images", "api", "sdk", "glooby"],
     "authors": [
         {
