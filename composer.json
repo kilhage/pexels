@@ -14,7 +14,7 @@
         "psr-4": { "Glooby\\Pexels\\": "src/" }
     },
     "require": {
-        "php": ">=5.5",
+        "php": ">=5.4.0",
         "guzzlehttp/guzzle": "~5.1"
     }
 }
