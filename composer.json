@@ -4,10 +4,12 @@
     "type": "library",
     "description": "Pexels API Client for www.pexels.com",
     "keywords": ["pexels", "images", "api", "sdk", "glooby"],
+    "homepage": "https://www.glooby.se",
     "authors": [
         {
             "name": "Emil Kilhage",
-            "email": "emil.kilhage@glooby.com"
+            "email": "emil.kilhage@glooby.com",
+            "homepage": "https://www.glooby.se"
         }
     ],
     "autoload": {
