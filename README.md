@@ -32,9 +32,9 @@ $response = $pexels->search('london');
 Loop trough photos and display them
 
 ```php
-$images = json_decode($pexels->search('london')->getBody())->images;
-foreach ($images as $image) {
- echo "<img src='{$image->src->small}' width='{$image->width}' heigth='{$image->height}'>"
+$photos = json_decode($pexels->search('london')->getBody())->photos;
+foreach ($photos as $photo) {
+ echo "<img src='{$photo->src->small}' width='{$photo->width}' heigth='{$photo->height}'>"
 }
 ```
 
