@@ -57,4 +57,18 @@ class Client
             'page' => $page
           ]));
     }
+
+    /**
+     * @param int $size
+     * @param int $page
+     *
+     * @return \GuzzleHttp\Message\ResponseInterface
+     */
+    public function curated($size = 15, $page = 1)
+    {
+        return $this->getClient()->get('curated?'.http_build_query([
+            'per_page' => $size,
+            'page' => $page
+          ]));
+    }
 }
